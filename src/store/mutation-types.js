@@ -1,0 +1,5 @@
+export const SET_INSTITUTE='SET_INSTITUTE'
+export const SET_STUDENT='SET_STUDENT'
+export const SET_AUTH='SET_AUTH'
+export const SET_USER='SET_USER'
+export const ADD_COURSE='ADD_COURSE'

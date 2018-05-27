@@ -1,0 +1,426 @@
+{
+  "institute": [
+    {
+      "name": "知名学府",
+      "school": [
+        {
+          "name": "南开大学",
+          "schoolImg": "https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=522332e82e2eb938ec6d7df4ed59e208/3812b31bb051f81980dc3243dbb44aed2e73e739.jpg",
+          "desc": "大连交通大学是东北地区惟一一所以轨道交通为特色的高等学校，始终发扬“明德求索，锲而不舍”的校训精神，坚持 “立足辽宁，服务区域经济，发展铁路市场，积极面向全国”的办学定位。",
+          "course": [
+            {
+              "pickUrl": "",
+              "linkUrl": ""
+            }
+          ],
+          "news": [
+            "我校开展2018寒假卫生检查",
+            "南开大学校庆"
+          ],
+          "student": [
+            {
+              "name": "王晨妍",
+              "major": "交通工程+软件工程",
+              "class": "R交通141",
+              "id": 1418080124,
+              "task":[
+                {
+                  "type":"课后作业",
+                  "name":"材料力学课后作业",
+                  "time":"2018年05月03号"
+                },
+                {
+                  "type":"单元测试",
+                  "name":"语文单元测试",
+                  "time":"2018年07月04号"
+                },
+                {
+                  "type":"课后作业",
+                  "name":"材料力学课后作业",
+                  "time":"2018年08月09号"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "北京大学",
+          "schoolImg": "https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=f36fec27da09b3deebbfe36ef4840bbc/622762d0f703918f05cd76855a3d269759eec465.jpg",
+          "desc": "北京大学，简称“北大”，诞生于1898年，初名京师大学堂，是中国近代第一所国立大学，也是最早以“大学”之名创办的学校，其成立标志着中国近代高等教育的开端。",
+          "news": [
+            "我校开展2018寒假卫生检查",
+            "北京大学校庆"
+          ],
+          "course": [
+            {
+              "pickUrl": "",
+              "linkUrl": ""
+            }
+          ],
+          "student": [
+            {
+              "name": "顾新阳",
+              "major": "交通工程+软件工程",
+              "class": "R交通141",
+              "id": 1418080108,
+              "task":[
+                {
+                  "type":"课后作业",
+                  "name":"数学课后作业",
+                  "time":"2018年05月03号"
+                },
+                {
+                  "type":"单元测试",
+                  "name":"语文单元测试",
+                  "time":"2018年07月04号"
+                },
+                {
+                  "type":"课后作业",
+                  "name":"英语课后作业",
+                  "time":"2018年08月09号"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "清华大学",
+          "schoolImg": "https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=eda1fc67a2ec8a13141a50e6cf38f6b2/32fa828ba61ea8d34792ac8c9c0a304e241f5882.jpg",
+          "desc": "北京大学，简称“北大”，诞生于1898年，初名京师大学堂，是中国近代第一所国立大学，也是最早以“大学”之名创办的学校，其成立标志着中国近代高等教育的开端。",
+          "news": [
+            "我校开展2018寒假卫生检查",
+            "北京大学校庆"
+          ],
+          "course": [
+            {
+              "pickUrl": "",
+              "linkUrl": ""
+            }
+          ],
+          "student": [
+            {
+              "name": "王举鹏",
+              "major": "土木工程+软件工程",
+              "class": "R土木141",
+              "id": 1418082122
+            }
+          ]
+        },
+        {
+          "name": "天津大学",
+          "schoolImg": "https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=6af753d6be3eb13544c7b0bd9e25cfee/58ee3d6d55fbb2fba9eb272c4d4a20a44723dcc8.jpg",
+          "desc": "北京大学，简称“北大”，诞生于1898年，初名京师大学堂，是中国近代第一所国立大学，也是最早以“大学”之名创办的学校，其成立标志着中国近代高等教育的开端。",
+          "news": [
+            "我校开展2018寒假卫生检查",
+            "北京大学校庆"
+          ],
+          "course": [
+            {
+              "pickUrl": "",
+              "linkUrl": ""
+            }
+          ],
+          "student": [
+            {
+              "name": "王晨妍",
+              "major": "交通工程+软件工程",
+              "class": "R交通141",
+              "id": 1418080124
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "金牌中学",
+      "school": [
+        {
+          "name": "南开大学",
+          "schoolImg": "https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=522332e82e2eb938ec6d7df4ed59e208/3812b31bb051f81980dc3243dbb44aed2e73e739.jpg",
+          "desc": "大连交通大学是东北地区惟一一所以轨道交通为特色的高等学校，始终发扬“明德求索，锲而不舍”的校训精神，坚持 “立足辽宁，服务区域经济，发展铁路市场，积极面向全国”的办学定位。",
+          "course": [
+            {
+              "pickUrl": "",
+              "linkUrl": ""
+            }
+          ],
+          "news": [
+            "我校开展2018寒假卫生检查",
+            "南开大学校庆"
+          ],
+          "student": [
+            {
+              "name": "王晨妍",
+              "major": "交通工程+软件工程",
+              "class": "R交通141",
+              "id": 1418080124
+            }
+          ]
+        },
+        {
+          "name": "北京大学",
+          "schoolImg": "https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=f36fec27da09b3deebbfe36ef4840bbc/622762d0f703918f05cd76855a3d269759eec465.jpg",
+          "desc": "北京大学，简称“北大”，诞生于1898年，初名京师大学堂，是中国近代第一所国立大学，也是最早以“大学”之名创办的学校，其成立标志着中国近代高等教育的开端。",
+          "news": [
+            "我校开展2018寒假卫生检查",
+            "北京大学校庆"
+          ],
+          "course": [
+            {
+              "pickUrl": "",
+              "linkUrl": ""
+            }
+          ],
+          "student": [
+            {
+              "name": "王晨妍",
+              "major": "交通工程+软件工程",
+              "class": "R交通141",
+              "id": 1418080124
+            }
+          ]
+        },
+        {
+          "name": "清华大学",
+          "schoolImg": "https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=eda1fc67a2ec8a13141a50e6cf38f6b2/32fa828ba61ea8d34792ac8c9c0a304e241f5882.jpg",
+          "desc": "北京大学，简称“北大”，诞生于1898年，初名京师大学堂，是中国近代第一所国立大学，也是最早以“大学”之名创办的学校，其成立标志着中国近代高等教育的开端。",
+          "news": [
+            "我校开展2018寒假卫生检查",
+            "北京大学校庆"
+          ],
+          "course": [
+            {
+              "pickUrl": "",
+              "linkUrl": ""
+            }
+          ],
+          "student": [
+            {
+              "name": "王晨妍",
+              "major": "交通工程+软件工程",
+              "class": "R交通141",
+              "id": 1418080124
+            }
+          ]
+        },
+        {
+          "name": "天津大学",
+          "schoolImg": "https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=6af753d6be3eb13544c7b0bd9e25cfee/58ee3d6d55fbb2fba9eb272c4d4a20a44723dcc8.jpg",
+          "desc": "北京大学，简称“北大”，诞生于1898年，初名京师大学堂，是中国近代第一所国立大学，也是最早以“大学”之名创办的学校，其成立标志着中国近代高等教育的开端。",
+          "news": [
+            "我校开展2018寒假卫生检查",
+            "北京大学校庆"
+          ],
+          "course": [
+            {
+              "pickUrl": "",
+              "linkUrl": ""
+            }
+          ],
+          "student": [
+            {
+              "name": "王晨妍",
+              "major": "交通工程+软件工程",
+              "class": "R交通141",
+              "id": 1418080124
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "优秀小学",
+      "school": [
+        {
+          "name": "南开大学",
+          "schoolImg": "https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=522332e82e2eb938ec6d7df4ed59e208/3812b31bb051f81980dc3243dbb44aed2e73e739.jpg",
+          "desc": "大连交通大学是东北地区惟一一所以轨道交通为特色的高等学校，始终发扬“明德求索，锲而不舍”的校训精神，坚持 “立足辽宁，服务区域经济，发展铁路市场，积极面向全国”的办学定位。",
+          "course": [
+            {
+              "pickUrl": "",
+              "linkUrl": ""
+            }
+          ],
+          "news": [
+            "我校开展2018寒假卫生检查",
+            "南开大学校庆"
+          ],
+          "student": [
+            {
+              "name": "王晨妍",
+              "major": "交通工程+软件工程",
+              "class": "R交通141",
+              "id": 1418080124
+            }
+          ]
+        },
+        {
+          "name": "北京大学",
+          "schoolImg": "https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=f36fec27da09b3deebbfe36ef4840bbc/622762d0f703918f05cd76855a3d269759eec465.jpg",
+          "desc": "北京大学，简称“北大”，诞生于1898年，初名京师大学堂，是中国近代第一所国立大学，也是最早以“大学”之名创办的学校，其成立标志着中国近代高等教育的开端。",
+          "news": [
+            "我校开展2018寒假卫生检查",
+            "北京大学校庆"
+          ],
+          "course": [
+            {
+              "pickUrl": "",
+              "linkUrl": ""
+            }
+          ],
+          "student": [
+            {
+              "name": "王晨妍",
+              "major": "交通工程+软件工程",
+              "class": "R交通141",
+              "id": 1418080124
+            }
+          ]
+        },
+        {
+          "name": "清华大学",
+          "schoolImg": "https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=eda1fc67a2ec8a13141a50e6cf38f6b2/32fa828ba61ea8d34792ac8c9c0a304e241f5882.jpg",
+          "desc": "北京大学，简称“北大”，诞生于1898年，初名京师大学堂，是中国近代第一所国立大学，也是最早以“大学”之名创办的学校，其成立标志着中国近代高等教育的开端。",
+          "news": [
+            "我校开展2018寒假卫生检查",
+            "北京大学校庆"
+          ],
+          "course": [
+            {
+              "pickUrl": "",
+              "linkUrl": ""
+            }
+          ],
+          "student": [
+            {
+              "name": "王晨妍",
+              "major": "交通工程+软件工程",
+              "class": "R交通141",
+              "id": 1418080124
+            }
+          ]
+        },
+        {
+          "name": "天津大学",
+          "schoolImg": "https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=6af753d6be3eb13544c7b0bd9e25cfee/58ee3d6d55fbb2fba9eb272c4d4a20a44723dcc8.jpg",
+          "desc": "北京大学，简称“北大”，诞生于1898年，初名京师大学堂，是中国近代第一所国立大学，也是最早以“大学”之名创办的学校，其成立标志着中国近代高等教育的开端。",
+          "news": [
+            "我校开展2018寒假卫生检查",
+            "北京大学校庆"
+          ],
+          "course": [
+            {
+              "pickUrl": "",
+              "linkUrl": ""
+            }
+          ],
+          "student": [
+            {
+              "name": "王晨妍",
+              "major": "交通工程+软件工程",
+              "class": "R交通141",
+              "id": 1418080124
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "教育机构",
+      "school": [
+        {
+          "name": "南开大学",
+          "schoolImg": "https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=522332e82e2eb938ec6d7df4ed59e208/3812b31bb051f81980dc3243dbb44aed2e73e739.jpg",
+          "desc": "大连交通大学是东北地区惟一一所以轨道交通为特色的高等学校，始终发扬“明德求索，锲而不舍”的校训精神，坚持 “立足辽宁，服务区域经济，发展铁路市场，积极面向全国”的办学定位。",
+          "course": [
+            {
+              "pickUrl": "",
+              "linkUrl": ""
+            }
+          ],
+          "news": [
+            "我校开展2018寒假卫生检查",
+            "南开大学校庆"
+          ],
+          "student": [
+            {
+              "name": "王晨妍",
+              "major": "交通工程+软件工程",
+              "class": "R交通141",
+              "id": 1418080124
+            }
+          ]
+        },
+        {
+          "name": "北京大学",
+          "schoolImg": "https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=f36fec27da09b3deebbfe36ef4840bbc/622762d0f703918f05cd76855a3d269759eec465.jpg",
+          "desc": "北京大学，简称“北大”，诞生于1898年，初名京师大学堂，是中国近代第一所国立大学，也是最早以“大学”之名创办的学校，其成立标志着中国近代高等教育的开端。",
+          "news": [
+            "我校开展2018寒假卫生检查",
+            "北京大学校庆"
+          ],
+          "course": [
+            {
+              "pickUrl": "",
+              "linkUrl": ""
+            }
+          ],
+          "student": [
+            {
+              "name": "王晨妍",
+              "major": "交通工程+软件工程",
+              "class": "R交通141",
+              "id": 1418080124
+            }
+          ]
+        },
+        {
+          "name": "清华大学",
+          "schoolImg": "https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=eda1fc67a2ec8a13141a50e6cf38f6b2/32fa828ba61ea8d34792ac8c9c0a304e241f5882.jpg",
+          "desc": "北京大学，简称“北大”，诞生于1898年，初名京师大学堂，是中国近代第一所国立大学，也是最早以“大学”之名创办的学校，其成立标志着中国近代高等教育的开端。",
+          "news": [
+            "我校开展2018寒假卫生检查",
+            "北京大学校庆"
+          ],
+          "course": [
+            {
+              "pickUrl": "",
+              "linkUrl": ""
+            }
+          ],
+          "student": [
+            {
+              "name": "王晨妍",
+              "major": "交通工程+软件工程",
+              "class": "R交通141",
+              "id": 1418080124
+            }
+          ]
+        },
+        {
+          "name": "天津大学",
+          "schoolImg": "https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=6af753d6be3eb13544c7b0bd9e25cfee/58ee3d6d55fbb2fba9eb272c4d4a20a44723dcc8.jpg",
+          "desc": "北京大学，简称“北大”，诞生于1898年，初名京师大学堂，是中国近代第一所国立大学，也是最早以“大学”之名创办的学校，其成立标志着中国近代高等教育的开端。",
+          "news": [
+            "我校开展2018寒假卫生检查",
+            "北京大学校庆"
+          ],
+          "course": [
+            {
+              "pickUrl": "",
+              "linkUrl": ""
+            }
+          ],
+          "student": [
+            {
+              "name": "王晨妍",
+              "major": "交通工程+软件工程",
+              "class": "R交通141",
+              "id": 1418080124
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
